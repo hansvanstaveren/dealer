@@ -11,11 +11,10 @@ I might put in your fixes, and distribute a new version someday.
 I would prefer if you did *not* use this program for generating hands
 for tournaments. I have not investigated the random number generation
 closely enough for me to be comfortable with that thought.
+If you want to deal for tournaments use my BigDeal program.
 
 	Hans van Staveren
-	Amsterdam
-	Holland
-	<sater@sater.home.cs.vu.nl>
+	<sater@xs4all.nl>
 
 ------------------------------------------------------------------------------
 This is a version of Hans' program with several new functions.   Please
